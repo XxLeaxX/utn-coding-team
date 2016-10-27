@@ -42,7 +42,7 @@ The meeting objective is to provided both talking and sharing screen posibilitie
 Every **Friday** night we will have an skype meeting at **20:00 (UTC -3)** on skype, anyone can join this meeting by entering in this [link](http://bit.do/UTNTraining). Even if there is no one connected at the time you join the meeting, we suggest you to wait just in case someone is delayed. The link is dynamically so don't try to join more than an hour before the sheduled time.
 
 ### IDE
-The is a list of possible IDEs for this project, at the moment there is none choosen to be used as the standard. The list bellow shows all the alternatives, if you want to add any other, do it through issues.
+The list below is the one for the possible IDEs for this project, at the moment there is none choosen as the standard. If you want to add any other, do it through issues.
 
 1. [Cloud 9](https://c9.io) (check whether you can sign up without credit card)
 2. [Collabedit](http://collabedit.com/)
@@ -61,16 +61,20 @@ The is a list of possible IDEs for this project, at the moment there is none cho
 
 Further evaluation is due and the aspects to be evaluated are:
 - Colaborative editting (Several people editing the same file online)
-- Version Control (Record of all the saves since the creation outside the SVC)
-- Theme (Ergonomic theme for long-time training)
+- Share Link
+- Storage (All the files are stored in the cloud)
+- Project-Like (You can manage different files and folders)
+- Theme (Ergonomic theme for long-time training and Can ajust the size of the Fonts)
 - Debbuging (Builtin debbuger)
-- Registrarion (Whether registration is needed)
+- No Registrarion (No registration is needed)
 - Multiple Languages
 - Console
 - Run on same window (The possibility to run the code without changing the page (not reloading))
 - Github Integration
-- Integrations (The integrations options it has)
 - Keybinding (Vim, Emacs, Sublime keybindings support)
+- Chat (Builtin chat )
+
+[ELC](https://github.com/ELC) Made a quick comparison with these IDEs, you can read it [here](IDEComparison)
 
 If you want to know why we are using Online IDEs, check the FAQ below.
 
@@ -94,7 +98,6 @@ For a quick view of the whole directory tree, you can check the badge at the top
 
 ## Practicing
 The platforms we will use for practicing in the team will be listed below, for any suggestions, please do it through an issue:
-
 1. [Spoj](http://www.spoj.com)
 2. [Codechef](https://www.codechef.com/problems/easy/)
 3. [Hacker Earth](https://www.hackerearth.com/users/basic-details/)
