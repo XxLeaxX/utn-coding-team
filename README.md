@@ -13,7 +13,7 @@ In this repository you will find all the information about the competitive team 
 * Directory Tree
 * Practicing
 * Learning
-* TODOs
+* [TODOs](#todos)
 * FAQ
 
 ## Requirements
