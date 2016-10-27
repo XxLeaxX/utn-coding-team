@@ -96,6 +96,7 @@ For a quick view of the whole directory tree, you can check the badge at the top
 
 ## Practicing
 The platforms we will use for practicing in the team will be listed below, for any suggestions, please do it through an issue:
+
 1. [Spoj](http://www.spoj.com)
 2. [Codechef](https://www.codechef.com/problems/easy/)
 3. [Hacker Earth](https://www.hackerearth.com/users/basic-details/)
