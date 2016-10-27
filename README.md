@@ -5,16 +5,13 @@
 In this repository you will find all the information about the competitive team of the UTN FRRo and all the resourses you need to join.
 
 ## Index
-* Requirements
-* Setup
-    * Meetings
-    * IDE
-    * SVC
-* Directory Tree
-* Practicing
-* Learning
+* [Requirements](#requirements)
+* [Setup](#setup)
+* [Directory Tree](#directory-tree)
+* [Practicing](#practicing)
+* [Learning](#learning)
 * [TODOs](#todos)
-* FAQ
+* [FAQ](#faq)
 
 ## Requirements
 
