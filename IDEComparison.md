@@ -1,5 +1,5 @@
 # Description
-The Online IDEs suggested in the README are evaluated below. The format will be a single "Pros", "Cons"
+The Online IDEs suggested in the README are evaluated below. The format will be a single "Pros", "Cons".
 
 # IDEs:
 1. [Cloud 9](https://c9.io) 
