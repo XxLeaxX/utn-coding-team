@@ -1,7 +1,7 @@
 [![Directory Tree](https://img.shields.io/badge/dic--tree-online-brightgreen.svg)](http://veniversum.me/git-visualizer/?owner=ELC&repo=utn-coding-team)
 [![UTN Website](https://img.shields.io/badge/UTN%20Site-Online-blue.svg)](http://www.frro.utn.edu.ar/)
 
-# UTN Codign Team Repository
+# UTN Coding Team Repository
 In this repository you will find all the information about the competitive team of the UTN FRRo and all the resourses you need to join.
 
 ## Index
@@ -12,6 +12,7 @@ In this repository you will find all the information about the competitive team 
 * [Learning](#learning)
 * [TODOs](#todos)
 * [FAQ](#faq)
+* [Aditional Resourses](#aditional-resourses)
 
 ## Requirements
 
@@ -143,3 +144,8 @@ Github is easy to learn and provide useful integrations with a wide variety of s
 
 ### Why Online IDEs?
 Online IDEs allow us to work without installing nor downloading anything and reduce the time spend on the setup as much as possible. Versatility and eficiency are the main advantages of this way of working, just internet connection is needed for the training. Also, low-specs PCs can be used and we deppend on nothing more than the browser, Skype and Github, with everything being host on the cloud
+
+## Aditional Resourses
+This list shows IDEs, Debuggers, Frameworks and online resourses some members used in adition to what was explained in this README
+* [Dillinger](http://dillinger.io/) - SaaS for editing and publishing Markdown files on GitHub
+* [Veniversum](http://veniversum.me/) - SaaS for displaying the directory tree, used as a badge in the README
