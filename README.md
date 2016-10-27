@@ -1,5 +1,6 @@
 [![Directory Tree](https://img.shields.io/badge/dic--tree-online-brightgreen.svg)](http://veniversum.me/git-visualizer/?owner=ELC&repo=utn-coding-team)
 [![UTN Website](https://img.shields.io/badge/UTN%20Site-Online-blue.svg)](http://www.frro.utn.edu.ar/)
+[![Join Meeting](https://img.shields.io/badge/Meeting-Join-blue.svg)](http://bit.do/UTNTraining)
 
 # UTN Coding Team Repository
 In this repository you will find all the information about the competitive team of the UTN FRRo and all the resourses you need to join.
