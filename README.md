@@ -74,7 +74,7 @@ Further evaluation is due and the aspects to be evaluated are:
 - Keybinding (Vim, Emacs, Sublime keybindings support)
 - Chat (Builtin chat )
 
-[ELC](https://github.com/ELC) Made a quick comparison with these IDEs, you can read it [here](IDEComparison)
+[ELC](https://github.com/ELC) Made a quick comparison with these IDEs, you can read it [here](IDEComparison.md)
 
 If you want to know why we are using Online IDEs, check the FAQ below.
 
