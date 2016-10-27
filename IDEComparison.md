@@ -1,21 +1,23 @@
 # Description
-The Online IDEs suggested in the README are evaluated below. The format will be a single "Pros", "Cons".
+The Online IDEs suggested in the README are evaluated below. The format will be a single "Pros", "Cons". If you want to read just the conclusion you can go [here](#conclusion)
 
-# IDEs:
-1. [Cloud 9](https://c9.io) 
-2. [Collabedit](http://collabedit.com/)
-3. [Kobra](https://kobra.io)
-4. [Codeshare](https://codeshare.io) 
-5. [Codeanywhere](https://codeanywhere.com)
-6. [Nitrous](https://www.nitrous.io)
-7. [Ideone](https://ideone.com/) 
-8. [Codepad](https://codepad.co)
-9. [Codetasty](https://codetasty.com)
-10. [Codenvy](https://codenvy.io)
-11. [Koding](https://koding.com)
-12. [Repl](https://repl.it/)
-13. [CodingGround](https://www.tutorialspoint.com/codingground.htm)
-14. [Codechef](https://www.codechef.com)
+# IDEs Index:
+Click an IDEs to see its review
+
+1. [Cloud 9](#disqualified) 
+2. [Collabedit](#1-collabedit)
+3. [Kobra](#2-kobra)
+4. [Codeshare](#3-codeshare) 
+5. [Codeanywhere](#disqualified)
+6. [Nitrous](#disqualified)
+7. [Ideone](#4-ideone) 
+8. [Codepad](#disqualified)
+9. [Codetasty](#disqualified)
+10. [Codenvy](#disqualified)
+11. [Koding](#disqualified)
+12. [Repl](#5-repl)
+13. [CodingGround](#6-codingground)
+14. [Codechef](#disqualified)
 
 # Evaluation aspects:
 - Colaborative editting (Several people editing the same file online)
