@@ -42,14 +42,14 @@ Every **Friday** night we will have an skype meeting at **20:00 (UTC -3)** on sk
 ### IDE
 The list below is the one for the possible IDEs for this project, at the moment there is none choosen as the standard. If you want to add any other, do it through issues.
 
-1. [Cloud 9](https://c9.io) (check whether you can sign up without credit card)
+1. [Cloud 9](https://c9.io)
 2. [Collabedit](http://collabedit.com/)
 3. [Kobra](https://kobra.io)
-4. [Codeshare](https://codeshare.io) (No sing up needed)
+4. [Codeshare](https://codeshare.io)
 5. [Codeanywhere](https://codeanywhere.com)
 6. [Nitrous](https://www.nitrous.io)
-7. [Ideone](https://ideone.com/) (No sing up needed - Used by SPOJ)
-8. [Codepad](https://codepad.co) (Light Theme)
+7. [Ideone](https://ideone.com/)
+8. [Codepad](https://codepad.co)
 9. [Codetasty](https://codetasty.com)
 10. [Codenvy](https://codenvy.io)
 11. [Koding](https://koding.com)
@@ -74,7 +74,7 @@ Further evaluation is due and the aspects to be evaluated are:
 
 [ELC](https://github.com/ELC) Made a quick comparison with these IDEs, you can read it [here](IDEComparison.md)
 
-If you want to know why we are using Online IDEs, check the FAQ below.
+If you want to know why we are using Online IDEs, check the [FAQ](#faq).
 
 ### SVC
 The source version control for this repository is git and the platform we are going to use is GitHub. The repository should be forked by everymember and once an excercise is correctly resolved, a pull request should be fired.
