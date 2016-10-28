@@ -11,3 +11,6 @@ int sumOfDigits(int n){
     return sum;
 }
 ```
+
+# Working in Action
+[![Python Tutor](http://www.uadnan.com/wp-content/uploads/2014/10/PythonTutor-Logo-310x150.png)](https://goo.gl/Y0wg2N)
