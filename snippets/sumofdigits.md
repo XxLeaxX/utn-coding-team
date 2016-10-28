@@ -9,7 +9,7 @@ int sumOfDigits(int n){
         n /= 10; // n / 10 pops the unit of the number
         }
     return sum;
-}
+    }
 ```
 
 # Working in Action

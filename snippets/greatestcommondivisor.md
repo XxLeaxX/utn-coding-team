@@ -5,14 +5,15 @@ There are 3 version for the GCD Euclidean Algorithm, **only version 2 and 3 are 
 ```c
 int gcd(int a, int b){
   while (a != b){
-      if (a > b){
-         a = a - b;
-      }else{
-         b = b - a;
+    if (a > b){
+      a = a - b;
       }
-  }
+    else{
+      b = b - a;
+      }
+    }
   return a;
-}
+  }
 ```
 # Working in Action
 [![Python Tutor](http://www.uadnan.com/wp-content/uploads/2014/10/PythonTutor-Logo-310x150.png)](https://goo.gl/5Oy8W9)
