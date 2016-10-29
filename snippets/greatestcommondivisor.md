@@ -16,7 +16,7 @@ int gcd(int a, int b){
   }
 ```
 # Working in Action
-[![Python Tutor](http://www.uadnan.com/wp-content/uploads/2014/10/PythonTutor-Logo-310x150.png)](https://goo.gl/5Oy8W9)
+[![Python Tutor](http://www.uadnan.com/wp-content/uploads/2014/10/PythonTutor-Logo-310x150.png)](https://goo.gl/XGej5n)
 
 ***
 
@@ -25,15 +25,15 @@ int gcd(int a, int b){
 int gcd(int a, int b){
   int t;
   while (b != 0){
-      t = b;
-      b = a % b;
-      a = t;
-  }
+    t = b;
+    b = a % b;
+    a = t;
+    }
   return a;
-}
+  }
 ```
 # Working in Action
-[![Python Tutor](http://www.uadnan.com/wp-content/uploads/2014/10/PythonTutor-Logo-310x150.png)](https://goo.gl/7L3Fdh)
+[![Python Tutor](http://www.uadnan.com/wp-content/uploads/2014/10/PythonTutor-Logo-310x150.png)](https://goo.gl/Dcjxpf)
 
 ***
 
@@ -42,9 +42,9 @@ int gcd(int a, int b){
 int gcd(int a, int b){
   if (b == 0){
     return a;
-  }
+    }
   return gcd(b, a % b);
-}
+  }
 ```
 # Working in Action
-[![Python Tutor](http://www.uadnan.com/wp-content/uploads/2014/10/PythonTutor-Logo-310x150.png)](https://goo.gl/0imL1w)
+[![Python Tutor](http://www.uadnan.com/wp-content/uploads/2014/10/PythonTutor-Logo-310x150.png)](https://goo.gl/WbCyuW)
