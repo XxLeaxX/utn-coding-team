@@ -13,4 +13,4 @@ int sumOfDigits(int n){
 ```
 
 # Working in Action
-[![Python Tutor](http://www.uadnan.com/wp-content/uploads/2014/10/PythonTutor-Logo-310x150.png)](https://goo.gl/Y0wg2N)
+[![Python Tutor](http://www.uadnan.com/wp-content/uploads/2014/10/PythonTutor-Logo-310x150.png)](https://goo.gl/dKGphJ)
