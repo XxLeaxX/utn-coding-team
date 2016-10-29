@@ -19,13 +19,15 @@ In this repository you will find all the information about the competitive team 
 
 For this project we will be using a set of software that will be required for the proper team work:
 - Skype - For meetings
-    - SuperTintin for Skype  (Just in case you are the host)
+    - Ezvid  (Just in case you are the host)
 - Browser - For developing, debugging and deploying
 - Github App - For source control
 
 
 ### Skype
 Install skype for your platform, you can find a direct link **[here](https://www.skype.com/es/download-skype/skype-for-computer/)**
+
+If you want to know why we are using Skype, check the [FAQ](#faq)
 
 ### Browser
 Any modern browser will do, but make sure that all the pages mentioned here are compatible with your browser version and that you have all the plugins, if any needed, installed.
@@ -36,7 +38,7 @@ For this project we aren't using any IDE so Github plugins are not necesarry, al
 ## Setup
 
 ### Meetings
-The meeting objective is to provided both talking and sharing screen posibilities for the team and the ability to interact with each other. In addition to this the software "SuperTintin for Skype" is used to record the whole meeting, allowing all the members to watch the recording once it's uploaded to the repository.
+The meeting objective is to provided both talking and sharing screen posibilities for the team and the ability to interact with each other. In addition to this the software "Ezvid" is used to record the whole meeting, allowing all the members to watch the recording once it's uploaded to the repository.
 
 Every **Friday** night we will have an skype meeting at **20:00 (UTC -3)** on skype, anyone can join this meeting by entering in this [link](http://bit.do/UTNTraining). Even if there is no one connected at the time you join the meeting, we suggest you to wait just in case someone is delayed. The link is dynamically so don't try to join more than an hour before the sheduled time.
 
@@ -80,15 +82,18 @@ If you want to know why we are using Online IDEs, check the [FAQ](#faq).
 ### SVC
 The source version control for this repository is git and the platform we are going to use is GitHub. The repository should be forked by everymember and once an excercise is correctly resolved, a pull request should be fired.
 
+If you want to know why we are using GitHub, check the [FAQ](#faq).
+
+
 ## Directory Tree
 The structure of the directory tree for this project will be like the following:
 ```
-Root + PlatformName + ExcerciseCode + Username
+Root + PlatformName + ExcerciseCode + Username + Codes
 ```
 
 For example:
 ```
-/Spoj/1/skielcast
+/Spoj/1/ELC/problem.cpp
 ```
 
 In this way each user will have their own folder for the exercises they have done and allow other users to check their solutions against their partners
@@ -109,6 +114,9 @@ The platforms we will use for practicing in the team will be listed below, for a
 9. [Codeeval](https://www.codeeval.com/open_challenges/)
 10. [Programmr](http://www.programmr.com/exercises?lang=cpp)
 11. [Code Abbey](http://www.codeabbey.com/index/task_list)
+12. [POJ](http://poj.org/problemlist)
+13. [UVA](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
+14. [URI](https://www.urionlinejudge.com.br/judge/en/login)
 
 ## Learning
 In order to learn and have a the "theory" at hand, this list will give you the resourses you need to improve your skills and streghthen your knowledge:
@@ -137,6 +145,22 @@ This is a list of the future features:
 - Own Website (Github Pages)
 
 ## FAQ
+
+* [Why Skype?](why-skype)
+* [Why C++?](#why-c)
+* [Why GitHub?](#why-github)
+* [Why Online IDEs?](#why-online-ides)
+
+### Why Skype?
+Skype is a free software (not OpenSource) that fufill the requirements we need, being those:
+
+* Generating a link for a given conversation (*)
+* Screen Sharing
+* Anonymously meeting conversations
+* User friendly interface
+* Multiple voice communication
+
+(*) The link is not permanent so we are using a bit.do (BD from now on) link as an alias. What makes it possible is the BD feature to change the destination link. So although the link to Skype may change from week to week the BD link stays the same
 
 ### Why C++?
 C++ is the standard in competitive programming, since it's used in most online judges and in programming competitions. Also it has a huge standard library and can run fast compared to other languages
